@@ -1,2 +1,8 @@
 # Superstore-Tableau-Dashboard
-Designed a Tableau dashboard with KPIs and dynamic charts based on a metric selector (Sales, Profit, #Orders).  Implemented interactive filters, trendlines, actions, and toggle buttons to enhance user insights. 
+This project focuses on building an interactive Tableau dashboard that provides a comprehensive analysis of sales performance for the Superstore USA dataset. The dashboard was designed to monitor key performance indicators (KPIs) such as Total Sales, Profit Margin, and Return Rate, along with dynamic visualization options for exploring data trends and patterns.
+
+A metric selector allows users to toggle between Sales, Profit, and Number of Orders, dynamically updating all charts to reflect the selected metric. This enhances the flexibility of data exploration and allows stakeholders to analyze performance from multiple perspectives. The dashboard includes category-wise and sub-category-wise breakdowns, geographical sales distribution by state, and segment-wise sales share through interactive bar, map, and donut charts.
+
+Users can also filter the data by region and year of order date, enabling targeted analysis across time periods and geographies. The sales trend chart visualizes monthly sales progression over several years, highlighting growth patterns and seasonality with a built-in trendline. Additionally, a Top 5 Products by Sales table identifies high-performing products contributing most to overall revenue.
+
+Interactive dashboard actions, filter controls, and highlight features have been implemented to create a smooth and engaging analytical experience. This project demonstrates proficiency in data visualization, interactivity, and business intelligence storytelling using Tableau, helping business users make data-driven decisions with clarity and precision.
